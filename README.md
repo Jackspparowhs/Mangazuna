@@ -8,6 +8,7 @@
   <a href="https://kyouka-live.web.app/">Mangazuna Read Any Manga For Free</a>
 </h1>
 
+
 <p align="center">
 
  <a href="https://github.com/LuckyIndraEfendi/Mangazuna/blob/main/LICENSE.md">
